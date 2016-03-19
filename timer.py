@@ -16,8 +16,9 @@ time.sleep(60 * float(t))
 spawn_terminal(print_command("TIME!"))
 
 
-#Known error: There's some stupid string escaping business that prevents me from
-# printing "TIME IS UP".  But I don't have the patience to find it.
+# Known error: There's some stupid string escaping business that prevents me from
+# printing "TIME IS UP, or anything complex". 
+# But I don't have the patience to find it.
 
 # More functions with string escaping errors.
 # def multi_print_command(thing_to_print, k):
