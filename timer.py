@@ -1,3 +1,7 @@
+# This code lets you enter in a time, and then creates a terminal popup window
+# when the time is up.
+# Very useful for any timed activity. Timchu, 3/16/16.
+
 import time
 import os
 
